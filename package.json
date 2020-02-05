@@ -1,16 +1,16 @@
 {
-  "name": "kary-foundation-light",
+  "name": "luminosity",
   "author": {
-    "name": "Kary Foundation, Inc"
+    "name": "Dmitry Kovalenko"
   },
   "theme": "syntax",
-  "version": "4.0.0",
-  "description": "Kary Foundation's Light Theme",
+  "version": "0.0.0",
+  "description": "Luminosity Light Theme",
   "keywords": [
     "syntax",
     "theme"
   ],
-  "repository": "https://github.com/karyfoundation/atom-kf-light",
+  "repository": "https://github.com/zerodayyy/luminosity",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
